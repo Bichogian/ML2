@@ -6,6 +6,8 @@
 
 Esta guía explica qué hace cada notebook, en qué orden se ejecutan sus bloques y cómo se conecta cada paso con la búsqueda de oportunidades en contratos BTC15m. Es una lectura técnica para ponerse al día; el informe integral del trabajo y de sus avances se preparará después.
 
+Para comenzar por una explicación de los procesos, sus entradas y sus salidas, leer la [guía en lenguaje simple](Guia_del_proyecto_en_lenguaje_simple.md).
+
 La revisión se hizo leyendo todas las celdas, comparando las tres versiones LSTM y consultando las salidas ya guardadas. **No se volvieron a descargar datos, entrenar modelos ni enviar órdenes.** Los resultados transcritos son evidencia guardada en los notebooks, no una reproducción independiente.
 
 ## Índice

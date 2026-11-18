@@ -7,6 +7,7 @@ Repositorio compartido para los trabajos de Machine Learning 2.
 El proyecto investiga si podemos estimar la probabilidad de liquidación YES de contratos BTC15m de Kalshi y usar esas estimaciones para evaluar reglas de entrada. La presentación plantea contrastar información de Kalshi, BRTI y Polymarket; los modelos de los notebooks actuales usan BRTI y Kalshi.
 
 - [Presentación intermedia](Presentacion%20MIA302-1.pptx.pdf).
+- [Guía en lenguaje simple: qué entra, qué pasa y qué sale de cada notebook](docs/Guia_del_proyecto_en_lenguaje_simple.md).
 - [Guía del código, paso a paso y con referencias a celdas y líneas](docs/Guia_codigo_BTC15m.md).
 
 ## Notebooks
